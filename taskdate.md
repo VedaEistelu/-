@@ -20,14 +20,17 @@
 代码片段的运行
 
 选择了对time文件夹中test目录内的DurationTest.cpp文件进行了更改，然后尝试编译，编译通过。
- ![make](https://github.com/VedaEistelu/-task/blob/master/pic/%E7%BC%96%E8%AF%91.jpg?raw=true)
+ ![make](https://github.com/VedaEistelu/-task/blob/master/pic/%E7%BB%88%E6%9E%81%E7%BC%96%E8%AF%91.png?raw=true)
 
-之后运行该项测试，终端返回的结果显示运行成功，成功使该文件休眠了11020ms
+之后运行该项测试，终端返回的结果显示运行成功，成功使该文件由休眠了11020ms到休眠6028ms
  ![run](https://github.com/VedaEistelu/-task/blob/master/pic/%E8%BF%90%E8%A1%8C.jpg?raw=true)
+ ![run2](https://github.com/VedaEistelu/-task/blob/master/pic/%E8%BF%90%E8%A1%8C2.png?raw=true)
 
-最后尝试提交了一个Pull Request到nebula项目上以让老师进行验收，git log显示VedaEistelu用户进行了一个commit于12.18星期三21.07.49
- ![PR](https://github.com/VedaEistelu/-task/blob/master/pic/PR.jpg?raw=true)
-
+最后尝试提交了一个Pull Request到nebula项目上以让老师进行验收，git log显示VedaEistelu用户进行了3个commit
+![status](https://github.com/VedaEistelu/-task/blob/master/pic/git%20status.png?raw=true)
+![commit](https://github.com/VedaEistelu/-task/blob/master/pic/git%20commit.png?raw=true)
+![log](https://github.com/VedaEistelu/-task/blob/master/pic/git%20log.png?raw=true)
+![pr](https://github.com/VedaEistelu/-task/blob/master/pic/2019-12-23%2017-34-04%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?raw=true)
 三、问题解决
 1.遇到的问题
 1）在使用git clone操作进行nebula项目的拉取时，由于服务器与网络的相关问题，clone速度极慢，因此查询解决办法后，首先尝试更新本机中linux系统下对github的IP拉取地址，但发现速度仍然提不上去。之后尝试将nebula项目先转存到码云gitee上，再进行拉取，发现速度正常，成功clone项目。之后发现该项目在重启后拉取内容消失，无奈重复了两次终于不再出现该问题。
