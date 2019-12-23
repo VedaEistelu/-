@@ -20,7 +20,7 @@
 代码片段的运行
 
 选择了对time文件夹中test目录内的duration_test文件进行了更改，然后尝试编译，编译通过。
- 
+ ![make](https://github.com/VedaEistelu/-task/blob/master/pic/%E7%BC%96%E8%AF%91.jpg?raw=true)
 
 之后运行该项测试，终端返回的结果显示运行成功，成功使该文件休眠了11020ms
  
