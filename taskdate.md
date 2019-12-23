@@ -23,10 +23,10 @@
  ![make](https://github.com/VedaEistelu/-task/blob/master/pic/%E7%BC%96%E8%AF%91.jpg?raw=true)
 
 之后运行该项测试，终端返回的结果显示运行成功，成功使该文件休眠了11020ms
- ![make](https://github.com/VedaEistelu/-task/blob/master/pic/%E8%BF%90%E8%A1%8C.jpg?raw=true)
+ ![run](https://github.com/VedaEistelu/-task/blob/master/pic/%E8%BF%90%E8%A1%8C.jpg?raw=true)
 
 最后尝试提交了一个Pull Request到nebula项目上以让老师进行验收，git log显示VedaEistelu用户进行了一个commit于12.18星期三21.07.49
- 
+ ![PR](https://github.com/VedaEistelu/-task/blob/master/pic/PR.jpg?raw=true)
 
 三、问题解决
 1.遇到的问题
