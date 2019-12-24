@@ -31,6 +31,8 @@
 ![commit](https://github.com/VedaEistelu/-task/blob/master/pic/git%20commit.png?raw=true)
 ![log](https://github.com/VedaEistelu/-task/blob/master/pic/git%20log.png?raw=true)
 ![pr](https://github.com/VedaEistelu/-task/blob/master/pic/2019-12-23%2017-34-04%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?raw=true)
+![pr2](https://github.com/VedaEistelu/-task/blob/master/pic/2019-12-24%2017-30-59%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?raw=true)
+![pr3](https://github.com/VedaEistelu/-task/blob/master/pic/2019-12-24%2017-31-05%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?raw=true)
 三、问题解决
 1.遇到的问题
 1）在使用git clone操作进行nebula项目的拉取时，由于服务器与网络的相关问题，clone速度极慢，因此查询解决办法后，首先尝试更新本机中linux系统下对github的IP拉取地址，但发现速度仍然提不上去。之后尝试将nebula项目先转存到码云gitee上，再进行拉取，发现速度正常，成功clone项目。之后发现该项目在重启后拉取内容消失，无奈重复了两次终于不再出现该问题。
